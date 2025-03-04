@@ -1,0 +1,20 @@
+h1 {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 300%;
+    text-align: center;
+}
+
+p {
+    color: darkgreen;
+    font-family: Magneto;
+    text-align: center;
+}
+
+body {
+    background-image: url('spinning_earth.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-y: center;
+    background-size: cover;
+}
